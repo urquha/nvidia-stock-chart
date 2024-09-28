@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nvidia-stock-chart/static/css/main.ca7f1e59.css",
+    "main.js": "/nvidia-stock-chart/static/js/main.3ee55fd5.js",
+    "static/js/453.d5e0ca75.chunk.js": "/nvidia-stock-chart/static/js/453.d5e0ca75.chunk.js",
+    "index.html": "/nvidia-stock-chart/index.html",
+    "main.ca7f1e59.css.map": "/nvidia-stock-chart/static/css/main.ca7f1e59.css.map",
+    "main.3ee55fd5.js.map": "/nvidia-stock-chart/static/js/main.3ee55fd5.js.map",
+    "453.d5e0ca75.chunk.js.map": "/nvidia-stock-chart/static/js/453.d5e0ca75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca7f1e59.css",
+    "static/js/main.3ee55fd5.js"
+  ]
+}
